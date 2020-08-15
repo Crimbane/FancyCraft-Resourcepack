@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/magma_cream"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/item/blaze_core" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "custom/item/blaze_core_blue" }
+	]
+}

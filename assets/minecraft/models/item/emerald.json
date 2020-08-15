@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/emerald"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/item/artifacts/tier_i_artifact" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "custom/item/artifacts/tier_ii_artifact" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "custom/item/artifacts/tier_iii_artifact" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "custom/item/artifacts/tier_iv_artifact" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "custom/item/artifacts/tier_v_artifact" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "custom/item/artifacts/tier_vi_artifact" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "custom/item/artifacts/tier_vii_artifact" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "custom/item/artifacts/tier_viii_artifact" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "custom/item/artifacts/tier_ix_artifact" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "custom/item/artifacts/tier_x_artifact" }
+	]
+}

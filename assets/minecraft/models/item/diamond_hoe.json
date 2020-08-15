@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/mob/blaze_king/blaze_king" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "custom/mob/blaze_king/blaze_king_hurt" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "custom/mob/blaze_king/blaze_king_wet" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "custom/mob/blaze_king/blaze_king_wet_hurt" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "custom/mob/blaze_king/blaze_king_blue" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "custom/mob/blaze_king/blaze_king_blue_hurt" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "custom/mob/blaze_king/blaze_king_blue_wet" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "custom/mob/blaze_king/blaze_king_blue_wet_hurt" },
+		{ "predicate": { "custom_model_data": 100 }, "model": "custom/item/block_highlight" }
+	]
+}
