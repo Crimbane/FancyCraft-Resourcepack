@@ -1,6 +1,6 @@
 {
     "textures": {
-		"texture": "block/stone"
+		"texture": "custom/blank"
 	},
 	"elements": [
 		{

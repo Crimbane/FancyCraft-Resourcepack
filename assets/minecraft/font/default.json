@@ -30,6 +30,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:custom/text_background.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uE203"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:item/enchanted_book.png",
 			"ascent": 8,
 			"height": 9,
@@ -55,6 +62,13 @@
 			"ascent": 8,
 			"height": 9,
 			"chars": ["\uE104"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/items/item_frame_editor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uE105"]
 		},
 		{
 			"type": "bitmap",
